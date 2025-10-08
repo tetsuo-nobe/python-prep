@@ -63,13 +63,13 @@
 
 ### venv を起動してパッケージをインストール
 
-    ```
-    python -m venv .venv
-    ```
+```
+python -m venv .venv
+```
 
-    ```
-    source .venv/bin/activate
-    ```
+```
+source .venv/bin/activate
+```
 
 * 終了するとき
 
@@ -81,12 +81,12 @@
 
 ### 環境で使用するパッケージをインストールする
 
-    ```
-    pip install streamlit
-    pip install strands-agents
-    pip install nest_asyncio
-    pip install strands-agents-tools strands-agents-builder
-    ```
+```
+pip install streamlit
+pip install strands-agents
+pip install nest_asyncio
+pip install strands-agents-tools strands-agents-builder
+```
 
 
 
