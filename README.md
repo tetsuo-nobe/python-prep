@@ -57,26 +57,25 @@
 
     ```
     python3 --version
-    
     ```
 
 ---
 
 ### venv を起動してパッケージをインストール
 
-```
-python -m venv .venv
-```
+    ```
+    python -m venv .venv
+    ```
 
-```
-source .venv/bin/activate
-```
+    ```
+    source .venv/bin/activate
+    ```
 
 * 終了するとき
 
-```
-deactivate
-```
+    ```
+    deactivate
+    ```
 
 ---
 
