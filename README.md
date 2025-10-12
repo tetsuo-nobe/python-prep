@@ -5,7 +5,7 @@
 
 ### pyenv をインストールして 使用する Python のバージョンを決める
 
-1. pyenv のインストール
+1. pyenv のインストール (途中で Y の応答必要）
 
     ```
     sudo apt update
